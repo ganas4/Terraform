@@ -1,1 +1,1 @@
-terraform { cloud { organization = "ganas4" workspaces { name = "scexpert-install" } } }
+terraform { cloud { organization = "MADE4NET.COM" workspaces { name = "scexpert-install" } } }
